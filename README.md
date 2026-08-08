@@ -80,15 +80,6 @@ I enjoy solving complex backend problems, improving application performance, and
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ar207&show_icons=true&locale=en" alt="Abdur Rehman GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar207&show_icons=true&locale=en&layout=compact" alt="Abdur Rehman Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to **remote opportunities, freelance projects, and collaborations** involving Laravel, PHP, SaaS, APIs, and full-stack web development.
